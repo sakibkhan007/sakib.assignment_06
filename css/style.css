@@ -427,6 +427,8 @@ nav ul li a{
 .about-pice{
     width:50%;
     float: left;
+    max-width:100%;
+    display:block;
 }
     
 
